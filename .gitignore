@@ -1,0 +1,13 @@
+# Data and collection tooling — intentionally not published
+grailed_scraper.py
+foulplay_sold.csv
+foulplay_sold_raw.json
+foulplay_clean.csv
+
+# System / environment cruft
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+anaconda_projects/
+files/
+files.zip
